@@ -1,5 +1,6 @@
 Keep this folder structure or edit the uaa path in the microservice application properties
 
+```text
 |
 | - UAA
 | - REGISTRY
@@ -10,7 +11,7 @@ Keep this folder structure or edit the uaa path in the microservice application 
   | - Microservice 2
   | - ...
   | - Microservice N
-  
+```  
   
 
 
