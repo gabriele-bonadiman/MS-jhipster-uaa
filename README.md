@@ -5,19 +5,17 @@ Keep this folder structure or edit the uaa path in the microservice application 
 | - UAA
 | - REGISTRY
   |
-  | MICROSERVICES
-  |
-  | - Microservice 1
-  | - Microservice 2
-  | - ...
-  | - Microservice N
+  | - MICROSERVICES
+    |
+    | - Microservice 1
+    | - Microservice 2
+    | - ...
+    | - Microservice N
 ```  
   
 
 
 
-
-==================  JHIPSTER DOCUMENTATION
 
 
 # uaa
